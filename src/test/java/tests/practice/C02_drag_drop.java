@@ -1,18 +1,12 @@
-package tests.myWork;
+package tests.practice;
 
 
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.support.ui.ExpectedCondition;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import pages.DemoPages;
 import utilities.ConfigReader;
 import utilities.Driver;
-
-import java.time.Duration;
 
 public class C02_drag_drop {
     /*

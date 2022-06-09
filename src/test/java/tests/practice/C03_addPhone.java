@@ -1,4 +1,4 @@
-package tests.myWork;
+package tests.practice;
 
 import org.junit.Assert;
 import org.openqa.selenium.WebElement;
@@ -9,7 +9,7 @@ import utilities.Driver;
 
 import java.util.ArrayList;
 
-public class addPhone {
+public class C03_addPhone {
     /*
     ~ Navigate to http://tutorialsninja.com/demo/index.php?route=common/home
     ~ click on Phones & PDAs

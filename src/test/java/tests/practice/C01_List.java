@@ -1,4 +1,4 @@
-package tests.myWork;
+package tests.practice;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
